@@ -1,1 +1,1 @@
-![Alt text](relative/path/to/image.png?raw=true "Title")
+![Alt text](../image.png?raw=true "Title")
